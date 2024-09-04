@@ -5,7 +5,7 @@ I try to open the img with FTK but It's a corrupted disk image
 
 ![photo_2024-09-04_20-05-53](https://github.com/user-attachments/assets/efe1a187-f2e6-415b-8baf-f408950d1237)
 
-I try to edit hex with 010 editor to repair the disk 
+So go to edit hex with 010 editor to repair the disk 
 search for NTFS and delete everything above 
 
 
