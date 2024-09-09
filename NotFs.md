@@ -1,7 +1,5 @@
 # Black hat MEA Quals 2024
-
 ## Category: Forensics
-
 ### Challenge name: NotFs [Medium]
 
 
