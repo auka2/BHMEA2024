@@ -1,8 +1,8 @@
-## Black hat MEA Quals 2024
+### Black hat MEA Quals 2024
 
-Category: Forensics
+## Category: Forensics
 
-Challenge name: NotFs [Medium]
+#Challenge name: NotFs [Medium]
 
 
 I try to open the img with FTK but It's a corrupted disk image
